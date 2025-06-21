@@ -123,3 +123,46 @@ Winners will receive:
 ## Good Luck!
 
 We look forward to seeing your innovative solutions and contributions to pushing AI-generated software development forward.
+
+
+
+## Results for June 20, 2025
+No participants.
+
+Here are some one shot generations of wc using the prompt "Write the wc utility in C as efficiently as possible for ASCII strings for Mac M1. Include performance tests, unit tests, and integration tests for corner cases to make sure it is correct."
+
+* Google Gemeni Pro 2.5 [aistudio.google.com](https://aistudio.google.com)
+
+* Anthropic Claude Opus 4 [claude.ai](https://claude.ai)
+
+* ChatGPT [chatgpt.com](https://chatgpt.com)
+
+o3
+
+GPT-4o
+
+o4-mini
+
+04-mini-high
+
+* Xai Grock [grok.com](https://grok.com)
+
+* Deepseek-r1:70b  d37b54d01a76
+```bash 
+ ollama run deepseek-r1:70b 
+```
+
+* ollama run magistral:24b
+
+
+
+
+
+
+## Results for March 20, 2025
+No participants.
+
+
+
+
+
