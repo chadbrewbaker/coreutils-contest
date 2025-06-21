@@ -1,0 +1,1 @@
+Write the wc utility in C as efficiently as possible for ASCII strings for Mac M1. Include performance tests, unit tests, and integration tests for corner cases to make sure it is correct.
